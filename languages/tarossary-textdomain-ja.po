@@ -1,0 +1,112 @@
+# Copyright (C) 2013 WordPress
+# This file is distributed under the same license as the WordPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: media_used_search1.0\n"
+"Report-Msgid-Bugs-To: http://wppolyglots.wordpress.com\n"
+"POT-Creation-Date: 2017-07-24 11:50+0900\n"
+"PO-Revision-Date: 2017-07-24 11:51+0900\n"
+"Last-Translator: \n"
+"Language-Team: igarashi <rigarashi@tarosky.co.jp>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../tarossary.php:50
+msgid "glossary"
+msgstr "用語集"
+
+#: ../tarossary.php:51
+msgid "Glossary for Tarossary"
+msgstr "Tarossary用の用語集"
+
+#: ../tarossary.php:67
+msgid "Settings"
+msgstr "設定"
+
+#: ../tarossary.php:104
+msgid "Post type to be automatically linked"
+msgstr "自動リンクさせるポストタイプ"
+
+#: ../tarossary.php:105
+msgid ""
+"If there is a term in the body content of the checked post type, it will be "
+"automatically converted to the link."
+msgstr ""
+"チェックしたポストタイプの本文内容に用語があった場合、リンクに自動変換しま"
+"す。"
+
+#: ../tarossary.php:121
+msgid "Post type as a term"
+msgstr "用語として扱うポストタイプ"
+
+#: ../tarossary.php:122
+msgid "Treat the title of the checked post type as a term."
+msgstr "チェックしたポストタイプのタイトルを用語として扱う。"
+
+#: ../tarossary.php:137
+msgid "Cache time(Seconds)"
+msgstr "キャッシュ時間(秒)"
+
+#: ../tarossary.php:139
+msgid "Save"
+msgstr "保存"
+
+#~ msgid ""
+#~ "If it is used for the image in the custom fields correlated string to "
+#~ "post and view media list. Further images can be searched for that post by "
+#~ "applying a search posts titles are used."
+#~ msgstr ""
+#~ "投稿に紐づけられたカスタムフィールドを画像に使用している場合、メディア一覧"
+#~ "に使用している投稿を表示する。また投稿タイトルで検索をかけることでその投稿"
+#~ "が使用している画像も検索できる。"
+
+#~ msgid "Use post name (input item name)"
+#~ msgstr "使用記事名( 入力項目名 )"
+
+#~ msgid "Meta name is displayed in the case of non-input the label text."
+#~ msgstr "ラベルテキストに未入力の場合はメタ ネームが表示される。"
+
+#~ msgid ""
+#~ "On the right-hand side If you check you will be able to enter the label "
+#~ "text. Label text is displayed as next to use meta name of post title in "
+#~ "the media list."
+#~ msgstr ""
+#~ "チェックを入れると右辺にラベルテキストを入力できるようになる。メディア一覧"
+#~ "で投稿タイトルの横に使用メタ名としてラベルテキストが表示される。"
+
+#~ msgid "Metadata that you check here is the search in the media list."
+#~ msgstr "ここでチェックしたメタデータがメディア一覧で検索対象になる。"
+
+#~ msgid ""
+#~ "Meta list associated with post type that you specified in the search post "
+#~ "type selection is displayed."
+#~ msgstr ""
+#~ "【検索ポストタイプ選択】で指定したポストタイプに関連したカスタムフィールド"
+#~ "一覧が表示される。"
+
+#~ msgid "Search metadata selection"
+#~ msgstr "検索カスタムフィールド選択"
+
+#~ msgid ""
+#~ "To be displayed posts that are using the image in the media list. Also it "
+#~ "makes it possible to apply the search in the article name."
+#~ msgstr ""
+#~ "投稿に紐づけられたカスタムフィールドで画像に使用されている場合、メディア一"
+#~ "覧で表示する。また投稿タイトルで検索をかけることでその投稿が使用している画"
+#~ "像も検索できる。"
+
+#~ msgid "Use Post"
+#~ msgstr "使用投稿名( 入力項目名 )"
+
+#~ msgid ""
+#~ "Meta associated with post type that you specified in the search post type "
+#~ "selection is displayed."
+#~ msgstr ""
+#~ "【検索ポストタイプ選択】で指定したポストタイプに関連したメタが表示される。"

@@ -1,0 +1,22 @@
+.trs-setting {
+  padding-left: 10px;
+}
+.trs-setting-display-post {
+  padding: 10px 0;
+}
+.trs-setting-target-post {
+  padding: 10px 0;
+}
+.trs-setting-time {
+  padding: 15px 0;
+}
+.trs-setting-info{
+	margin-top: 20px;
+}
+.trs-setting-info h2{
+	margin: 0;
+}
+.trs-setting-info .trs-setting-description{
+	color: #aaa;
+    font-size: .85em;
+}
